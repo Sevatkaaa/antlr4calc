@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPDEsqnMa3DgjgJ29biUYH44sOyOS2dhpUcmE6cAXUCfl08QC+6EZG6DjdVF6ZCrEfWEReM2mkGCYY+3llF4uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sov\\Source\\Repos\\antlr-calculator\\KNU.TOKT.Calculator\\KNU.TOKT.Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sov\\.nuget\\packages\\antlr4\\4.6.6\\antlr4.4.6.6.nupkg.sha512",
+    "C:\\Users\\Sov\\.nuget\\packages\\antlr4.codegenerator\\4.6.6\\antlr4.codegenerator.4.6.6.nupkg.sha512",
+    "C:\\Users\\Sov\\.nuget\\packages\\antlr4.runtime\\4.6.6\\antlr4.runtime.4.6.6.nupkg.sha512"
+  ],
+  "logs": []
+}

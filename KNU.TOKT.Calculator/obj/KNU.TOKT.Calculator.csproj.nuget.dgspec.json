@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sov\\Source\\Repos\\antlr-calculator\\KNU.TOKT.Calculator\\KNU.TOKT.Calculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sov\\Source\\Repos\\antlr-calculator\\KNU.TOKT.Calculator\\KNU.TOKT.Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sov\\Source\\Repos\\antlr-calculator\\KNU.TOKT.Calculator\\KNU.TOKT.Calculator.csproj",
+        "projectName": "KNU.TOKT.Calculator",
+        "projectPath": "C:\\Users\\Sov\\Source\\Repos\\antlr-calculator\\KNU.TOKT.Calculator\\KNU.TOKT.Calculator.csproj",
+        "packagesPath": "C:\\Users\\Sov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sov\\Source\\Repos\\antlr-calculator\\KNU.TOKT.Calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Antlr4": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.6.6, )"
+            },
+            "Antlr4.Runtime": {
+              "target": "Package",
+              "version": "[4.6.6, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

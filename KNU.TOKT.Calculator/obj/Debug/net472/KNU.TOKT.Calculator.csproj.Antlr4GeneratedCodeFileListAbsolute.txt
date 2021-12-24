@@ -1,0 +1,6 @@
+C:\Users\Sov\Source\Repos\antlr-calculator\KNU.TOKT.Calculator\obj\Debug\net472\LabCalculatorLexer.cs
+C:\Users\Sov\Source\Repos\antlr-calculator\KNU.TOKT.Calculator\obj\Debug\net472\LabCalculatorParser.cs
+C:\Users\Sov\Source\Repos\antlr-calculator\KNU.TOKT.Calculator\obj\Debug\net472\LabCalculatorListener.cs
+C:\Users\Sov\Source\Repos\antlr-calculator\KNU.TOKT.Calculator\obj\Debug\net472\LabCalculatorBaseListener.cs
+C:\Users\Sov\Source\Repos\antlr-calculator\KNU.TOKT.Calculator\obj\Debug\net472\LabCalculatorVisitor.cs
+C:\Users\Sov\Source\Repos\antlr-calculator\KNU.TOKT.Calculator\obj\Debug\net472\LabCalculatorBaseVisitor.cs
